@@ -21,7 +21,7 @@ Proposals
 ---------
 Number|Title|Owner|Type|Status
 -|-|-|-|-
-[0001](IIP_0001.md)|IIP Purpose and Guidelines|Adam Mattlack and Michael Pfeiffer|Process|Final
+[0001](IIP_0001.md)|IIP Purpose and Guidelines|Adam Mattlack and Michael Pfeiffer|Process|Active
 [0002](IIP_0002.md)|Secondary tokens|Adam Mattlack and Michael Pfeiffer|Process|Final
 [0003](IIP_0003.md)|Revised Block Reward Schedule|Adam Mattlack and Michael Pfeiffer|Process|Accepted
 [0004](IIP_0004.md)|Timelock-based block reward distribution|Adam Mattlack and Michael Pfeiffer|Process|Accepted
