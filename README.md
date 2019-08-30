@@ -26,3 +26,4 @@ Number|Title|Owner|Type|Status
 [0003](IIP_0003.md)|Revised Block Reward Schedule|Adam Mattlack and Michael Pfeiffer|Process|Accepted
 [0004](IIP_0004.md)|Timelock-based block reward distribution|Adam Mattlack and Michael Pfeiffer|Process|Accepted
 [0005](IIP_0005.md)|Masternode collateral halving|Adam Mattlack and Michael Pfeiffer|Process|Accepted
+[0006](IIP_0006.md)|Deflationary Drivers|Adam Mattlack and Michael Pfeiffer|Standards|Draft
